@@ -1,0 +1,20 @@
+name: Daily Chess Puzzle
+on:
+  schedule:
+    - cron: '0 0 * * *'  # setiap hari jam 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-puzzle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch Lichess daily puzzle
+        run: |
+          PUZZLE=$(curl -s https://lichess.org/api/puzzle/daily)
+          FEN=$(echo $PUZZLE | jq -r '.game.pgn' | ...)
+          # script untuk update FEN di README.md antara marker
+          sed -i "s|fen=[^&\"]*|fen=$FEN|g" README.md
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "♞ Update daily puzzle"
