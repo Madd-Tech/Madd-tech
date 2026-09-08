@@ -99,7 +99,7 @@
 
 <br/><br/>
 
-
+<a href="https://github.com/Madd-Tech/Madd-tech/blob/main/checkmate-gallery.svg"><img src="https://raw.githubusercontent.com/Madd-Tech/Madd-tech/main/checkmate-gallery.svg" alt="Animated checkmate gallery" width="520"/></a>
 
 <br/><br/>
 
