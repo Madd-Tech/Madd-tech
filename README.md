@@ -68,9 +68,7 @@
 
 <div align="center">
 
-<a href="https://open.spotify.com/track/4dLGYJHqvxNVL6IyQhCJHm">
-  <img src="https://img.shields.io/badge/Now%20Playing-Golden%20Brown%20%E2%80%94%20The%20Stranglers-1a1a2e?style=for-the-badge&logo=spotify&logoColor=C9A227&labelColor=0f0f1a"/>
-</a>
+
 
 <br/><br/>
 
@@ -94,10 +92,10 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=C9A227"/></a>
+
 <a href="mailto:email@kamu.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=C9A227"/></a>
 <a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-1a1a2e?style=for-the-badge&logo=instagram&logoColor=C9A227"/></a>
-<a href="https://lichess.org/@/USERNAME"><img src="https://img.shields.io/badge/Lichess-1a1a2e?style=for-the-badge&logo=lichess&logoColor=C9A227"/></a>
+
 
 <br/><br/>
 
